@@ -14,7 +14,7 @@ It includes analysis by Job Role, Department, Education Level, Age Band, OverTim
 🔗 Video link will be added here once published.
 
 📁 Files Included
-- Excel Dashboard (.xlsx)
+- Excel Dashboard (HR DATA PROJECT #1.xlsx)
 - Presentation (Project N1.pptx)
 - README documentation
 
