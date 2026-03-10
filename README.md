@@ -11,7 +11,7 @@ The dashboard was built using:
 It includes analysis by Job Role, Department, Education Level, Age Band, OverTime, Distance From Home, Work-Life Balance, and Monthly Income.
 
 📊 YouTube Video (Full Walkthrough)
-🔗 Video link will be added here once published.
+🔗 https://youtu.be/ZJAj8VuKmxM
 
 📁 Files Included
 - Excel Dashboard (HR DATA PROJECT #1.xlsx)
